@@ -1,4 +1,4 @@
-# ML-linear-reg
+# ML-linear-regression
 Price prediction for houses
 
 1. Objective and data exploration
